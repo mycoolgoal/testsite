@@ -1,0 +1,9 @@
+body {
+  border-top: 70px solid rgb(237, 138, 49);
+  border-left: 70px solid rgb(246, 194, 60);
+  border-right: 70px solid rgb(246, 194, 60);
+  border-bottom: 70px solid rgb(251, 229, 76);
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
